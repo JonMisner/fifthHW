@@ -44,3 +44,15 @@ You are required to submit the following for review:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+
+
+
+Sources:
+https://github.com/MHavrilak/Day-Planner
+https://www.w3schools.com/
+https://developer.mozilla.org/en-US/
+https://momentjs.com/
+
+
+Shout out to Joseph Young for his help
